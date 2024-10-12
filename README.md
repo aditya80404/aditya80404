@@ -40,8 +40,7 @@ Welcome to my GitHub profile! I’m a driven and passionate developer with exper
 Feel free to reach out if you'd like to discuss tech, startups, or collaboration opportunities:
 
 - LinkedIn: [Aditya CM](https://www.linkedin.com/in/adityacm)
-- Twitter: [@yourusername](https://twitter.com/yourusername)
-- Email: aditya80404@gmail.com
+- Email: [Aditya's Mail](aditya80404@gmail.com)
 
 <!---
 aditya80404/aditya80404 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
